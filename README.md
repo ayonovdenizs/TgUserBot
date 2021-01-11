@@ -21,4 +21,4 @@ pip3 install tgcrypto
 
 # Связаться со мной
 Если что-то не удаётся, пишите:
-vk.com/ayden.yt_official
+https:/vk.com/ayden.yt_official
