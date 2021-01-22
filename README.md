@@ -1,7 +1,7 @@
 # Юзер бот для телеграмма! 
 
 # Как установить/запустить?
- 1. Установи Python 3.8 -> https://www.python.com/
+ 1. Установи Python 3.8 -> https://www.python.org/downloads/
  2. Войди в cmd.exe, введя в поиске: cmd
  3. Пропиши команды:
 pip3 install pyrogram  . 
