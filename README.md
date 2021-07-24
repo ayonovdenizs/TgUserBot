@@ -3,7 +3,7 @@
   https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.2
 
 # Как установить/запустить?
- 1. Установи Python 3.8 -> https://www.python.org/downloads/
+ 1. Установи Python 3.9 -> https://www.python.org/downloads/
  2. Войди в cmd.exe, введя в поиске: cmd
  3. Пропиши команды:
 pip3 install pyrogram
