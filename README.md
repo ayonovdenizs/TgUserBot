@@ -1,6 +1,6 @@
 # Юзер бот для телеграмма!
 # Последняя версия: 
-  https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.2
+  https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.3.appupdate
 
 # Как установить/запустить?
  1. Установи Python 3.9 -> https://www.python.org/downloads/
