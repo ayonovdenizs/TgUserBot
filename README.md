@@ -3,6 +3,8 @@
   https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.3.appupdate
 
 # Как установить/запустить?
+Полную установку смотрите тут:
+https://github.com/AyonovDenizs/TgUserBot/blob/TgUserBot/docs/installingtguserbot1.md
  1. Установи Python 3.9 -> https://www.python.org/downloads/
  2. Войди в cmd.exe, введя в поиске: cmd
  3. Пропиши команды:
