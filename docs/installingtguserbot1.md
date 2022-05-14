@@ -12,3 +12,7 @@
 6. Запусти через `python.exe`
 7. Войди в аккаунт Telegram
 8. Всё!
+
+## Установка на OS Android
+1. Скачай [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+2. Скачай установочный скрипт для библиотек.
