@@ -15,4 +15,11 @@
 
 ## Установка на OS Android
 1. Скачай [Pydroid](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
-2. Скачай установочный скрипт для библиотек.
+2. Скачай установочный [скрипт](https://github.com/AyonovDenizs/TgUserBot/blob/TgUserBot/install_libs.sh) для библиотек.
+3. Открой Terminal
+4. Найди скачанный скрипт. 
+5. Пропиши:
+   ```markdown
+   sh install_libs.sh
+   ```
+6. Действуй по шагу 7 из пунктов Установка скрипта  выше
