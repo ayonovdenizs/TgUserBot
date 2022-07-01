@@ -1,5 +1,7 @@
 echo "Installing my script..."
 sleep 1
+apt update
+apt upgrade
 clear
 echo "=================================="
 echo "                       Installing Git:"
