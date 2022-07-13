@@ -1,6 +1,6 @@
 # Юзер бот для телеграмма!
 # Последняя версия: 
-  [Версия 1.3.appupdate](https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.3.appupdate)
+  [Версия 1.3](https://github.com/AyonovDenizs/TgUserBot/releases/tag/V.1.3.appupdate)
 
 # Как установить/запустить?
 Полную установку смотрите тут:
@@ -8,7 +8,8 @@
 
 # Связаться со мной
 Если что-то не удаётся, пишите:
-[ВКонтакте](https:/vk.com/ayden.yt_official)
+[ВКонтакте](https://vk.com/ayden.yt_official)
+[Telegram](https://t.me/AyDenRu)
 
 # Команды
 .t <ваше сообщение> - ваше сообщение напечатается с эффектом "тайпинга";
