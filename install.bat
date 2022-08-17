@@ -2,7 +2,7 @@
 echo Create dir and open with Explorer
 mkdir "TgUserBot by ayonovdenizs_"
 cd "TgUserBot by ayonovdenizs_"
-explorer TgUserBot by ayonovdenizs_
+explorer "TgUserBot by ayonovdenizs_"
 echo Starting download python...
 timeout.exe /t 5
 cls
