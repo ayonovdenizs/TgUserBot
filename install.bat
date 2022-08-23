@@ -16,7 +16,7 @@ echo Installed Python?
 echo Yes - press Enter
 echo No - close CMD window and start again.
 pause
-echo "============================
+echo ============================
 echo Start install libs - Step 1. Update pip
 title Start install libs - Step 1. Update pip
 echo ============================
