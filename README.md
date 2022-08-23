@@ -8,8 +8,8 @@
 
 # Связаться со мной
 Если что-то не удаётся, пишите:
-[ВКонтакте](https://vk.com/ayden.yt_official)
-[Telegram](https://t.me/AyDenRu)
+[ВКонтакте](https://vk.com/aydenyt)
+[Telegram](https://t.me/ayonovdenizs)
 
 # Команды
 .t <ваше сообщение> - ваше сообщение напечатается с эффектом "тайпинга";
