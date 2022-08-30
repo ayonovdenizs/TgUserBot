@@ -33,14 +33,14 @@ def type(_, msg):
         except FloodWait as e:
             sleep(e.x)
  
-# Команда взлома пентагона
+# Команда взлома
 @app.on_message(filters.command("hack", prefixes=".") & filters.me)
 def hack(_, msg):
     perc = 0
  
     while(perc < 100):
         try:
-            text = "👮‍ Взлом пентагона в процессе ..." + str(perc) + "%"
+            text = "👮‍ Взлом твоего тг в процессе ..." + str(perc) + "%"
             msg.edit(text)
  
             perc += random.randint(1, 3)
@@ -49,15 +49,15 @@ def hack(_, msg):
         except FloodWait as e:
             sleep(e.x)
  
-    msg.edit("🟢 Пентагон успешно взломан!")
+    msg.edit("🟢 Ты успешно взломан!")
     sleep(3)
  
-    msg.edit("👽 Поиск секретных данных об НЛО ...")
+    msg.edit("👽 Поиск секретных данных...")
     perc = 0
  
     while(perc < 100):
         try:
-            text = "👽 Поиск секретных данных об НЛО ..." + str(perc) + "%"
+            text = "👽 Поиск секретных данных..." + str(perc) + "%"
             msg.edit(text)
  
             perc += random.randint(1, 5)
